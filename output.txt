@@ -1,3 +1,4 @@
-Hello world
-Hello sayeed
-Hello shayaan
+print:
+ int:5 
+ float:1.60 
+ char:A
