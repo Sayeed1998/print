@@ -1,4 +1,1 @@
-print:
- int:5 
- float:1.60 
- char:A
+10a 20b
